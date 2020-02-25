@@ -1,0 +1,59 @@
+.navegacion{
+    /* border: solid 4px orange; */
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.iconoC{
+    width: 20px;   
+}
+
+.fas {
+    color: black;
+    width: 20px;
+}
+
+.divdegoogle{
+/* background: orchid; */
+width: auto;
+display: flex;
+flex-direction: row;
+justify-content: center;
+margin-top: 100px;
+}
+
+.img1{
+    /* border: solid 4px rgb(66, 109, 228); */
+    width: 400px;
+    height: 132px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.divinput{
+    /* border: solid 5px green; */
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.input1{
+   border: solid 1px rgb(168, 168, 168); 
+   border-radius: 50px;
+    width: 450px;
+    height: 30px;
+    margin: 110px;
+}
+
+.botones1 {
+    /* border: solid red; */
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
